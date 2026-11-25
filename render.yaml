@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: dut-ai-be-bk
+    env: python
+    buildCommand: pip install -r requirements.txt && python train.py
+    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --threads 4 --timeout 60
+    healthCheckPath: /healthz
+    envVars:
+      - key: DUT_AI_SECRET
+        generateValue: true
+      - key: PYTHON_VERSION
+        value: 3.11.9
