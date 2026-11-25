@@ -1,0 +1,258 @@
+﻿Câu hỏi,Nhãn,Mã chủ đề,Nguồn dữ liệu,Loại dữ liệu,Ghi chú
+Nhà xe khu B ở đâu?,TIM_DUONG,PARKING_B,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Chỉ đường đến nhà xe khu B,TIM_DUONG,PARKING_B,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn gửi xe ở khu B thì đi đường nào?,TIM_DUONG,PARKING_B,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Từ cổng chính đến nhà xe khu B như thế nào?,TIM_DUONG,PARKING_B,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Nhà xe B nằm chỗ nào trong trường?,TIM_DUONG,PARKING_B,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Cho em tìm bãi giữ xe khu B,TIM_DUONG,PARKING_B,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Đi từ cổng khu C đến nhà xe khu B,TIM_DUONG,PARKING_B,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Nhà xe khu B có gần giảng đường nào không?,TIM_DUONG,PARKING_B,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Thư viện DUT nằm ở đâu?,TIM_DUONG,LIBRARY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Chỉ đường đến thư viện trường,TIM_DUONG,LIBRARY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn tìm thư viện,TIM_DUONG,LIBRARY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Đi đến thư viện từ cổng chính như thế nào?,TIM_DUONG,LIBRARY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Thư viện ở khu nào trong sơ đồ?,TIM_DUONG,LIBRARY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Từ cổng khu C đến thư viện đi đường nào?,TIM_DUONG,LIBRARY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Ký túc xá nằm ở đâu?,TIM_DUONG,DORMITORY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Chỉ đường đến ký túc xá,TIM_DUONG,DORMITORY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn tìm khu ký túc xá,TIM_DUONG,DORMITORY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+KTX ở phía nào của trường?,TIM_DUONG,DORMITORY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Tìm đường đến nhà 5 ký túc xá,TIM_DUONG,DORMITORY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Đi từ cổng chính đến ký túc xá như thế nào?,TIM_DUONG,DORMITORY,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Căn tin trường ở đâu?,TIM_DUONG,CANTEEN,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Chỉ đường đến căn tin DUT,TIM_DUONG,CANTEEN,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn đến căn tin,TIM_DUONG,CANTEEN,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Từ cổng chính đi đến căn tin như thế nào?,TIM_DUONG,CANTEEN,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Tìm vị trí căn tin trên bản đồ trường,TIM_DUONG,CANTEEN,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn đến khu A,TIM_DUONG,BUILDINGS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Chỉ đường đến khu B,TIM_DUONG,BUILDINGS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Khu C nằm ở đâu?,TIM_DUONG,BUILDINGS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Cho em tìm tòa nhà D,TIM_DUONG,BUILDINGS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Tòa nhà H ở đâu trong trường?,TIM_DUONG,BUILDINGS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em cần đến giảng đường F,TIM_DUONG,BUILDINGS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Chỉ đường đến tòa nhà A từ cổng khu C,TIM_DUONG,BUILDINGS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Hành chính một cửa ở đâu?,TIM_DUONG,ADMIN_LOCATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+HC1C nằm chỗ nào?,TIM_DUONG,ADMIN_LOCATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Chỉ đường đến khu hành chính một cửa,TIM_DUONG,ADMIN_LOCATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em cần đến Smart Building,TIM_DUONG,ADMIN_LOCATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Phòng Tài chính ở Smart Building đi đường nào?,TIM_DUONG,ADMIN_LOCATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Đến Phòng Công tác Sinh viên ở khu S như thế nào?,TIM_DUONG,ADMIN_LOCATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Sân bóng đá ở đâu?,TIM_DUONG,SPORTS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Chỉ đường đến sân bóng,TIM_DUONG,SPORTS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn tìm sân vườn trong trường,TIM_DUONG,SPORTS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Đi đến sân bóng từ cổng chính như thế nào?,TIM_DUONG,SPORTS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+"Em muốn tìm thư viện, em nên vào cổng nào?",TIM_DUONG,ENTRY_GATE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Tôi đi từ nhà xe khu E thì tìm đường đến khu A thế nào?,TIM_DUONG,ENTRY_GATE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Muốn đến khu B thì chọn lối vào nào?,TIM_DUONG,ENTRY_GATE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Tìm đường từ cổng khu C đến khu A,TIM_DUONG,ENTRY_GATE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em đi từ cổng chính đến khu C,TIM_DUONG,ENTRY_GATE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Tôi vào từ lối nhà xe khu E,TIM_DUONG,ENTRY_GATE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn tìm phòng C301,TIM_DUONG,ROOM_CODE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Tìm phòng B101 giúp em,TIM_DUONG,ROOM_CODE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Phòng A108 ở khu nào?,TIM_DUONG,ROOM_CODE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Chỉ đường đến phòng F302,TIM_DUONG,ROOM_CODE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+"Em có tiết ở D105, tìm khu nhà giúp em",TIM_DUONG,ROOM_CODE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Phòng H201 nằm ở khu nào?,TIM_DUONG,ROOM_CODE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Xem lịch học ở đâu?,HOC_VU,PORTAL_APP,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em xem lịch thi trên ứng dụng nào?,HOC_VU,PORTAL_APP,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Tra cứu thời khóa biểu như thế nào?,HOC_VU,PORTAL_APP,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+App Ddut có xem được lịch học không?,HOC_VU,PORTAL_APP,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Website sinh viên có lịch thi không?,HOC_VU,PORTAL_APP,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn xem thông tin học tập cá nhân,HOC_VU,PORTAL_APP,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Năm nhất có phải tự đăng ký học phần không?,HOC_VU,COURSE_REGISTRATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Kỳ đầu tiên ai xếp lịch học cho sinh viên?,HOC_VU,COURSE_REGISTRATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Từ học kỳ 2 em tự đăng ký tín chỉ phải không?,HOC_VU,COURSE_REGISTRATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Khi nào đăng ký lịch học kỳ mới?,HOC_VU,COURSE_REGISTRATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Cuối kỳ có mở đăng ký học kỳ tiếp theo không?,HOC_VU,COURSE_REGISTRATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em đăng ký môn học ở đâu?,HOC_VU,COURSE_REGISTRATION,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Học phí tính theo cách nào?,HOC_VU,TUITION_CALC,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Một kỳ học phí phụ thuộc vào số tín chỉ phải không?,HOC_VU,TUITION_CALC,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em đăng ký 15 tín chỉ thì học phí tính thế nào?,HOC_VU,TUITION_CALC,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Muốn biết học phí của kỳ này xem ở đâu?,HOC_VU,TUITION_CALC,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Đơn giá một tín chỉ tra cứu ở đâu?,HOC_VU,TUITION_CALC,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Học phí có phải lấy số tín chỉ nhân đơn giá không?,HOC_VU,TUITION_CALC,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em chưa thấy điểm thi thì hỏi ai?,HOC_VU,EXAM_GRADE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Có vấn đề về lịch thi thì liên hệ phòng nào?,HOC_VU,EXAM_GRADE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em bị sai điểm học phần phải làm sao?,HOC_VU,EXAM_GRADE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn hỏi về thi cử và bảng điểm đào tạo,HOC_VU,EXAM_GRADE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Phúc khảo điểm thi liên hệ ở đâu?,HOC_VU,EXAM_GRADE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Gần trường có quán cơm trưa nào giá phải chăng?,DOI_SONG,FOOD,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Ăn sáng gần DUT ở đâu?,DOI_SONG,FOOD,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Giới thiệu quán Cơm cô Lài,DOI_SONG,FOOD,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Bánh Mỳ cô Hạnh ở đâu?,DOI_SONG,FOOD,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Đường Ngô Sĩ Liên cạnh trường có quán ăn nào?,DOI_SONG,FOOD,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Muốn tìm quán ăn quanh trường,DOI_SONG,FOOD,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Ngoài Ngô Sĩ Liên còn khu nào có nhiều quán ăn?,DOI_SONG,FOOD,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Có thể khám phá đồ ăn ở đường Phạm Như Xương không?,DOI_SONG,FOOD,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Gần trường có chỗ photo tài liệu không?,DOI_SONG,PRINTING,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+In báo cáo ở đâu gần DUT?,DOI_SONG,PRINTING,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Quán Photo Tài Nguyên chuyên làm gì?,DOI_SONG,PRINTING,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Mua tài liệu học tập ở đâu?,DOI_SONG,PRINTING,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Quán Thành Công có cung cấp tài liệu sinh viên không?,DOI_SONG,PRINTING,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Giá gửi xe ở trường bao nhiêu?,DOI_SONG,PARKING_FEE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Gửi xe 7 tiếng ngày thường hết bao nhiêu?,DOI_SONG,PARKING_FEE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Gửi xe 10 tiếng từ thứ Hai đến thứ Sáu giá bao nhiêu?,DOI_SONG,PARKING_FEE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Thứ Bảy gửi xe giá bao nhiêu?,DOI_SONG,PARKING_FEE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Chủ nhật gửi xe bao nhiêu tiền?,DOI_SONG,PARKING_FEE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Giá gửi xe cuối tuần có khác ngày thường không?,DOI_SONG,PARKING_FEE,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Trường có câu lạc bộ nào?,DOI_SONG,CLUBS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Có câu lạc bộ học thuật nào ở DUT?,DOI_SONG,CLUBS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn tham gia Pioneer,DOI_SONG,CLUBS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+BKMAKER là câu lạc bộ về lĩnh vực gì?,DOI_SONG,CLUBS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Có câu lạc bộ kỹ năng mềm không?,DOI_SONG,CLUBS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Sclub là câu lạc bộ gì?,DOI_SONG,CLUBS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn tham gia hoạt động xã hội thì có đội nào?,DOI_SONG,CLUBS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+BKMEDIA hoạt động về lĩnh vực gì?,DOI_SONG,CLUBS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Làm sao tìm thông tin tuyển thành viên câu lạc bộ?,DOI_SONG,CLUBS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em xin giấy xác nhận sinh viên ở đâu?,THU_TUC_HANH_CHINH,DOCUMENT_HC1C,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Xin giấy hoãn nghĩa vụ quân sự như thế nào?,THU_TUC_HANH_CHINH,DOCUMENT_HC1C,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em cần lấy giấy tờ đã đăng ký thì đến đâu?,THU_TUC_HANH_CHINH,DOCUMENT_HC1C,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+HC1C ở khu nào?,THU_TUC_HANH_CHINH,DOCUMENT_HC1C,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Giấy xác nhận sinh viên nhận tại đâu?,THU_TUC_HANH_CHINH,DOCUMENT_HC1C,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn nhận giấy hoãn nghĩa vụ quân sự,THU_TUC_HANH_CHINH,DOCUMENT_HC1C,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Giờ làm việc của HC1C là khi nào?,THU_TUC_HANH_CHINH,DOCUMENT_HC1C,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Việc liên quan đến công tác sinh viên hỏi ở đâu?,THU_TUC_HANH_CHINH,OFFICE_ROUTING,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em cần tư vấn về công tác sinh viên,THU_TUC_HANH_CHINH,OFFICE_ROUTING,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Vấn đề thi cử và bảng điểm đào tạo liên hệ phòng nào?,THU_TUC_HANH_CHINH,OFFICE_ROUTING,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Đóng học phí thì đến phòng nào?,THU_TUC_HANH_CHINH,OFFICE_ROUTING,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em có thắc mắc về tiền học phí,THU_TUC_HANH_CHINH,OFFICE_ROUTING,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em muốn hỏi Phòng Tài chính và Kế hoạch ở đâu?,THU_TUC_HANH_CHINH,OFFICE_ROUTING,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em đã đăng ký giấy tờ trên web rồi,THU_TUC_HANH_CHINH,REGISTRATION_STATUS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Em chưa đăng ký đề nghị cấp giấy,THU_TUC_HANH_CHINH,REGISTRATION_STATUS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Đã gửi yêu cầu cấp giấy nhưng chưa thấy kết quả,THU_TUC_HANH_CHINH,REGISTRATION_STATUS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Đăng ký giấy xác nhận trên website sinh viên ở đâu?,THU_TUC_HANH_CHINH,REGISTRATION_STATUS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+"Em đã bấm gửi đề nghị, đến lấy giấy luôn được chưa?",THU_TUC_HANH_CHINH,REGISTRATION_STATUS,USER_PROVIDED,Synthetic augmentation,Câu hỏi mở rộng tổng hợp; không phải log hội thoại thực tế
+Ngoài phạm vi,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Giải bài toán này giúp em,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Thời tiết Đà Nẵng hôm nay thế nào,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Giá vàng hôm nay bao nhiêu,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Viết giúp em một bài thơ tình,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Tìm khách sạn ở Hà Nội,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Em muốn hỏi chuyện cá nhân không liên quan đến trường,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Cho em công thức nấu ăn,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Kết quả bóng đá tối qua,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Mua điện thoại nào tốt,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Hãy kể chuyện cười,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Dịch đoạn văn tiếng Anh này,OUT_OF_SCOPE,OOS,SYNTHETIC,Synthetic augmentation,Mẫu ngoài phạm vi bổ sung để kiểm tra bộ phân loại
+Xin chào,GREETING,GREET,SYSTEM_V6,Core dialogue,Lời chào cơ bản
+Chào bạn,GREETING,GREET,SYSTEM_V6,Core dialogue,Lời chào cơ bản
+Hello,GREETING,GREET,SYSTEM_V6,Core dialogue,Lời chào tiếng Anh
+Hi bot,GREETING,GREET,SYSTEM_V6,Core dialogue,Lời chào ngắn
+Alo trợ lý ơi,GREETING,GREET,SYSTEM_V6,Core dialogue,Gọi chatbot
+Cảm ơn bạn nhiều nhé,GREETING,THANKS,SYSTEM_V6,Core dialogue,Lời cảm ơn
+Thanks bot,GREETING,THANKS,SYSTEM_V6,Core dialogue,Lời cảm ơn ngắn
+Tạm biệt bạn nhé,GREETING,BYE,SYSTEM_V6,Core dialogue,Lời tạm biệt
+Bạn có thể giúp gì cho mình?,GREETING,HELP,SYSTEM_V6,Core dialogue,Hỏi khả năng của bot
+Chatbot này làm được gì?,GREETING,HELP,SYSTEM_V6,Core dialogue,Hỏi khả năng của bot
+Hôm nay ăn gì cho giảm cân?,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Kết quả bóng đá đêm qua thế nào?,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Giá Bitcoin hôm nay bao nhiêu?,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Dịch đoạn văn này sang tiếng Anh giúp mình,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Kể cho mình nghe một câu chuyện cười,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Đặt vé máy bay đi Sài Gòn,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Viết code Python sắp xếp mảng giúp em,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Ai là tổng thống Mỹ hiện tại?,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Review phim chiếu rạp tuần này,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Ngày mai trời có mưa không?,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Tư vấn mua laptop gaming giá rẻ,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Cho em xin vài câu thả thính hay,OUT_OF_SCOPE,OOS,SYSTEM_V6,Balanced OOS,Ngoài phạm vi DUT
+Thư viện mở cửa mấy giờ?,DOI_SONG,DS_SERVICE,USER_PROVIDED,Boundary sample,Hỏi giờ dịch vụ thư viện
+Giờ mở cửa căn tin trường là khi nào?,DOI_SONG,DS_SERVICE,USER_PROVIDED,Boundary sample,Hỏi giờ dịch vụ căn tin
+Tôi cần hỏi giờ phục vụ của thư viện,DOI_SONG,DS_SERVICE,USER_PROVIDED,Boundary sample,Hỏi giờ dịch vụ thư viện
+Em bị sai điểm thi thì hỏi ai?,THU_TUC_HANH_CHINH,ADM_DAOTAO,USER_PROVIDED,Boundary sample,Hỏi sai điểm thi
+Phúc khảo điểm thi liên hệ phòng nào?,THU_TUC_HANH_CHINH,ADM_DAOTAO,USER_PROVIDED,Boundary sample,Hỏi phúc khảo điểm
+HC1C làm việc lúc nào?,THU_TUC_HANH_CHINH,ADM_HC1C_HOURS,USER_PROVIDED,Boundary sample,Hỏi giờ làm việc HC1C
+Hành chính một cửa mở cửa mấy giờ?,THU_TUC_HANH_CHINH,ADM_HC1C_HOURS,USER_PROVIDED,Boundary sample,Hỏi giờ làm việc HC1C
+Thứ 7 gửi xe trong trường bao nhiêu tiền?,DOI_SONG,DS_PARKING_FEE,USER_PROVIDED,Boundary sample,Hỏi giá gửi xe T7
+Đội Công tác Xã hội của trường là gì?,DOI_SONG,DS_CLUBS,USER_PROVIDED,Boundary sample,Hỏi CLB CTXH
+Tìm phòng E2.101,TIM_DUONG,BUILDING_E2,USER_PROVIDED,Room E1/E2,Phòng tòa E2 tầng 1 phòng 1
+Phòng E2.101 ở đâu?,TIM_DUONG,BUILDING_E2,USER_PROVIDED,Room E1/E2,Hỏi vị trí phòng E2.101
+E2.101 ở tòa nào vậy?,TIM_DUONG,BUILDING_E2,USER_PROVIDED,Room E1/E2,Hỏi tòa của phòng E2.101
+Phòng E1.203 nằm ở đâu?,TIM_DUONG,BUILDING_E1,USER_PROVIDED,Room E1/E2,Hỏi vị trí phòng E1.203
+Chỉ đường đến tòa nhà E1,TIM_DUONG,BUILDING_E1,USER_PROVIDED,Room E1/E2,Tìm tòa E1
+Tòa nhà E2 ở đâu trong trường?,TIM_DUONG,BUILDING_E2,USER_PROVIDED,Room E1/E2,Tìm tòa E2
+Từ cổng chính đi đến phòng E2.101,TIM_DUONG,BUILDING_E2,USER_PROVIDED,Room E1/E2,Tìm đường tới phòng E2.101
+Từ cổng khu C qua phòng E1.102 đi sao?,TIM_DUONG,BUILDING_E1,USER_PROVIDED,Room E1/E2,Tìm đường tới phòng E1.102
+Phòng S05.08 nằm ở tầng mấy?,TIM_DUONG,OFFICE_DAOTAO,USER_PROVIDED,Room Smart,Hỏi vị trí phòng S05.08
+Phòng C301 tầng mấy vậy?,TIM_DUONG,BUILDING_C,USER_PROVIDED,Room C,Hỏi tầng phòng C301
+Sáng nay ăn gì gần trường ngon rẻ?,DOI_SONG,DS_FOOD_BREAKFAST,USER_PROVIDED,Synonym,Ăn sáng
+Bánh mỳ cô Hạnh bán gì và giá bao nhiêu?,DOI_SONG,DS_FOOD_BREAKFAST,USER_PROVIDED,Synonym,Bánh mỳ cô Hạnh
+Bánh mì full topping gần Bách khoa bao nhiêu tiền?,DOI_SONG,DS_FOOD_BREAKFAST,USER_PROVIDED,Synonym,Giá bánh mì
+Quán bánh mì cô Hạnh có bán cà phê không?,DOI_SONG,DS_FOOD_BREAKFAST,USER_PROVIDED,Synonym,Đồ uống cô Hạnh
+Chỗ nào bán đồ ăn sáng nhanh gọn cạnh DUT?,DOI_SONG,DS_FOOD_BREAKFAST,USER_PROVIDED,Synonym,Ăn sáng
+Mua bánh mì sáng gần cổng trường ở đâu?,DOI_SONG,DS_FOOD_BREAKFAST,USER_PROVIDED,Synonym,Bánh mì sáng
+Trưa nay ăn cơm ở đâu ngon bổ rẻ?,DOI_SONG,DS_FOOD_LUNCH,USER_PROVIDED,Synonym,Cơm trưa
+Cơm cô Lài giá bao nhiêu một dĩa?,DOI_SONG,DS_FOOD_LUNCH,USER_PROVIDED,Synonym,Giá cơm cô Lài
+Quán cơm nào gần trường miễn phí cơm thêm canh thêm?,DOI_SONG,DS_FOOD_LUNCH,USER_PROVIDED,Synonym,Cơm thêm miễn phí
+Quán cơm bình dân sạch sẽ cho sinh viên DUT,DOI_SONG,DS_FOOD_LUNCH,USER_PROVIDED,Synonym,Cơm sinh viên
+Ăn trưa tầm 20k đến 30k gần Bách khoa,DOI_SONG,DS_FOOD_LUNCH,USER_PROVIDED,Synonym,Cơm 20k-30k
+Quán cà phê học bài gần trường Bách khoa,DOI_SONG,DS_STUDY_CAFE,USER_PROVIDED,Synonym,Cafe học bài
+Quán cafe nào mở 24/7 cho sinh viên chạy deadline?,DOI_SONG,DS_STUDY_CAFE,USER_PROVIDED,Synonym,Cafe 24/7
+Giới thiệu quán cà phê ngồi học xuyên đêm gần DUT,DOI_SONG,DS_STUDY_CAFE,USER_PROVIDED,Synonym,Học xuyên đêm
+Zone 6 ở đường nào và giá nước bao nhiêu?,DOI_SONG,DS_STUDY_CAFE,USER_PROVIDED,Synonym,Zone Six
+Zone Six 19 Phạm Như Xương có mở 24/7 không?,DOI_SONG,DS_STUDY_CAFE,USER_PROVIDED,Synonym,Zone Six
+Trạm 247 Study Cafe giá nước tầm bao nhiêu?,DOI_SONG,DS_STUDY_CAFE,USER_PROVIDED,Synonym,Trạm 247
+Quán Trạm 247 không gian học bài có ổn không?,DOI_SONG,DS_STUDY_CAFE,USER_PROVIDED,Synonym,Trạm 247
+Tìm chỗ ngồi học nhóm có máy lạnh gần trường,DOI_SONG,DS_STUDY_CAFE,USER_PROVIDED,Synonym,Học nhóm cafe
+Cafe học bài mở thâu đêm gần Phạm Như Xương,DOI_SONG,DS_STUDY_CAFE,USER_PROVIDED,Synonym,Cafe 24/7
+Chỗ nào bán tài liệu môn học cũ giá rẻ gần trường?,DOI_SONG,DS_PRINT,USER_PROVIDED,Synonym,Tài liệu Thành Công
+"Quán Photo Thành Công nằm ở đâu, có tài liệu sẵn không?",DOI_SONG,DS_PRINT,USER_PROVIDED,Synonym,Photo Thành Công
+In đồ án báo cáo gần Bách khoa tiệm nào ổn?,DOI_SONG,DS_PRINT,USER_PROVIDED,Synonym,In báo cáo
+Tiệm photo Tài Nguyên có gần quán Thành Công không?,DOI_SONG,DS_PRINT,USER_PROVIDED,Synonym,Photo Tài Nguyên
+Mua giáo trình photo giá sinh viên ở đâu?,DOI_SONG,DS_PRINT,USER_PROVIDED,Synonym,Giáo trình photo
+Gần trường có công viên nào để tập thể dục không?,DOI_SONG,DS_RECREATION,USER_PROVIDED,Synonym,Công viên Liên Chiểu
+Sinh viên Bách khoa hay đi chạy bộ chơi thể thao ở đâu?,DOI_SONG,DS_RECREATION,USER_PROVIDED,Synonym,Thể thao
+Công viên Liên Chiểu ở đường nào vậy?,DOI_SONG,DS_RECREATION,USER_PROVIDED,Synonym,Công viên Liên Chiểu
+Cuối tuần đi đâu vui chơi hóng mát gần trường?,DOI_SONG,DS_RECREATION,USER_PROVIDED,Synonym,Vui chơi
+Chỗ tập thể dục buổi chiều gần Nguyễn Sinh Sắc,DOI_SONG,DS_RECREATION,USER_PROVIDED,Synonym,Tập thể dục
+Quanh trường Bách khoa có gì ăn uống vui chơi không?,DOI_SONG,DS_MENU,USER_PROVIDED,Synonym,Smart Flow Đời sống
+Tư vấn đời sống sinh viên quanh DUT giúp mình,DOI_SONG,DS_MENU,USER_PROVIDED,Synonym,Smart Flow Đời sống
+Mình muốn tìm tiện ích quanh trường,DOI_SONG,DS_MENU,USER_PROVIDED,Synonym,Smart Flow Đời sống
+Gợi ý vài chỗ hay ho quanh trường cho tân sinh viên,DOI_SONG,DS_MENU,USER_PROVIDED,Synonym,Smart Flow Đời sống
+Chỉ đường ra quán Bánh Mỳ cô Hạnh,TIM_DUONG,FOOD_BANH_MY_HANH,USER_PROVIDED,Synonym,Chỉ đường Bánh Mỳ cô Hạnh
+Bánh Mỳ cô Hạnh nằm chỗ nào trên bản đồ trường?,TIM_DUONG,FOOD_BANH_MY_HANH,USER_PROVIDED,Synonym,Vị trí Bánh Mỳ cô Hạnh
+Từ cổng khu C đi ra Bánh Mỳ cô Hạnh sao bạn?,TIM_DUONG,FOOD_BANH_MY_HANH,USER_PROVIDED,Synonym,Đường tới Bánh Mỳ cô Hạnh
+Chỉ đường đến quán Cơm cô Lài giúp mình,TIM_DUONG,FOOD_COM_CO_LAI,USER_PROVIDED,Synonym,Chỉ đường Cơm cô Lài
+Cơm cô Lài ở đâu so với ký túc xá?,TIM_DUONG,FOOD_COM_CO_LAI,USER_PROVIDED,Synonym,Vị trí Cơm cô Lài
+Đi từ cổng chính qua Cơm cô Lài đường nào gần nhất?,TIM_DUONG,FOOD_COM_CO_LAI,USER_PROVIDED,Synonym,Đường tới Cơm cô Lài
+Phòng E2.101 ở tòa nào tầng mấy?,TIM_DUONG,BUILDING_E2,USER_PROVIDED,Synonym,Phòng E2.101
+Tìm giúp mình phòng E1.102 với,TIM_DUONG,BUILDING_E1,USER_PROVIDED,Synonym,Phòng E1.102
+Cho mình hỏi đường tới phòng E2.205,TIM_DUONG,BUILDING_E2,USER_PROVIDED,Synonym,Phòng E2.205
+Phòng B203 nằm ở khu nào vậy?,TIM_DUONG,BUILDING_B,USER_PROVIDED,Synonym,Phòng B203
+Phòng A104 đi lối nào cho gần?,TIM_DUONG,BUILDING_A,USER_PROVIDED,Synonym,Phòng A104
+Mình muốn qua Smart Building từ cổng chính,TIM_DUONG,SMART_BUILDING,USER_PROVIDED,Synonym,Smart Building
+Coi thời khóa biểu ở web nào vậy bạn?,HOC_VU,HV_PORTAL,USER_PROVIDED,Synonym,Xem TKB
+Tải app gì để xem lịch thi Bách khoa?,HOC_VU,HV_PORTAL,USER_PROVIDED,Synonym,App Ddut
+Kỳ 1 năm nhất có cần tự canh đăng ký tín chỉ không?,HOC_VU,HV_FIRST_TERM,USER_PROVIDED,Synonym,Năm nhất
+Cách ước lượng tiền học phí một học kỳ,HOC_VU,HV_TUITION,USER_PROVIDED,Synonym,Tính học phí
+Làm giấy xác nhận sinh viên vay vốn ở đâu?,THU_TUC_HANH_CHINH,ADM_HC1C,USER_PROVIDED,Synonym,Giấy xác nhận
+Muốn xin giấy tạm hoãn nghĩa vụ quân sự cần làm gì?,THU_TUC_HANH_CHINH,ADM_HC1C,USER_PROVIDED,Synonym,Hoãn NVQS
+Một cửa khu A mấy giờ đóng cửa chiều?,THU_TUC_HANH_CHINH,ADM_HC1C_HOURS,USER_PROVIDED,Synonym,Giờ HC1C
+Nộp tiền học phí hay hỏi thắc mắc học phí gặp phòng nào?,THU_TUC_HANH_CHINH,ADM_FINANCE,USER_PROVIDED,Synonym,Đóng học phí
+Điểm thi bị nhập nhầm thì báo ai sửa?,THU_TUC_HANH_CHINH,ADM_DAOTAO,USER_PROVIDED,Synonym,Sai điểm thi
+"Hỏi về học bổng, điểm rèn luyện thì lên phòng CTSV nào?",THU_TUC_HANH_CHINH,ADM_CTSV,USER_PROVIDED,Synonym,Phòng CTSV
+Tôi muốn rút học bạ,THU_TUC_HANH_CHINH,ADM_RECORDS,USER_PROVIDED,Regression,Rút học bạ
+Mượn lại học bạ gốc thì liên hệ phòng nào?,THU_TUC_HANH_CHINH,ADM_RECORDS,USER_PROVIDED,Regression,Mượn học bạ
+Tôi muốn rút hồ sơ sinh viên,THU_TUC_HANH_CHINH,ADM_RECORDS,USER_PROVIDED,Regression,Rút hồ sơ sinh viên
+Thủ tục rút hồ sơ thôi học ở DUT làm ở đâu?,THU_TUC_HANH_CHINH,ADM_RECORDS,USER_PROVIDED,Regression,Rút hồ sơ thôi học
+Tôi muốn xin bản điểm,THU_TUC_HANH_CHINH,ADM_HC1C,USER_PROVIDED,Regression,Typo bản điểm
+Xin cấp bảng điểm tiếng Việt ở đâu?,THU_TUC_HANH_CHINH,ADM_HC1C,USER_PROVIDED,Regression,Xin bảng điểm
+Mất thẻ sinh viên thì làm lại ở đâu?,THU_TUC_HANH_CHINH,ADM_CTSV,USER_PROVIDED,Regression,Làm lại thẻ SV
+Em muốn xin bảo lưu kết quả học tập,THU_TUC_HANH_CHINH,ADM_DAOTAO,USER_PROVIDED,Regression,Bảo lưu
+Xin giấy chứng nhận sinh viên để vay vốn,THU_TUC_HANH_CHINH,ADM_HC1C,USER_PROVIDED,Regression,Chứng nhận SV
+Thủ tục miễn giảm học phí hỏi phòng nào?,THU_TUC_HANH_CHINH,ADM_CTSV,USER_PROVIDED,Regression,Miễn giảm học phí
+Tôi muốn tới phòng HC1C,TIM_DUONG,HC1C,USER_PROVIDED,Contrastive,Đi tới HC1C
+Chỉ đường đến phòng Hành chính một cửa,TIM_DUONG,HC1C,USER_PROVIDED,Contrastive,Đi tới HC1C
+HC1C mở cửa lúc mấy giờ?,THU_TUC_HANH_CHINH,ADM_HC1C_HOURS,USER_PROVIDED,Contrastive,Giờ mở cửa HC1C
+Phòng một cửa khu A thứ 7 có làm việc không?,THU_TUC_HANH_CHINH,ADM_HC1C_HOURS,USER_PROVIDED,Contrastive,Giờ làm việc HC1C
+Tôi muốn tới thư viện trường,TIM_DUONG,LIBRARY,USER_PROVIDED,Contrastive,Đi tới thư viện
+Thư viện DUT mở cửa lúc mấy giờ?,DOI_SONG,DS_SERVICE,USER_PROVIDED,Contrastive,Giờ mở cửa thư viện
+Tôi muốn tới quán Bánh Mỳ cô Hạnh,TIM_DUONG,FOOD_BANH_MY_HANH,USER_PROVIDED,Contrastive,Đi tới Bánh Mỳ cô Hạnh
+Tôi muốn tới quán Cơm cô Lài,TIM_DUONG,FOOD_COM_CO_LAI,USER_PROVIDED,Contrastive,Đi tới Cơm cô Lài
+Tôi muốn tới phòng Đào tạo S05.08,TIM_DUONG,OFFICE_DAOTAO,USER_PROVIDED,Contrastive,Đi tới S05.08
+Tôi muốn tới phòng Công tác Sinh viên S06.08,TIM_DUONG,OFFICE_CTSV,USER_PROVIDED,Contrastive,Đi tới S06.08
+Xin bản điểm ở đâu?,THU_TUC_HANH_CHINH,ADM_HC1C,USER_PROVIDED,Contrastive,Xin bảng điểm (lỗi gõ)
+Xin bảng điểm ở đâu?,THU_TUC_HANH_CHINH,ADM_HC1C,USER_PROVIDED,Contrastive,Xin bảng điểm
+Tôi muốn lấy giấy xác nhận sinh viên,THU_TUC_HANH_CHINH,ADM_HC1C,USER_PROVIDED,Contrastive,Lấy giấy XNSV
+Tôi muốn rút học bạ cấp 3,THU_TUC_HANH_CHINH,ADM_RECORDS,USER_PROVIDED,Contrastive,Rút học bạ
+Thủ tục rút hồ sơ sinh viên cần gì?,THU_TUC_HANH_CHINH,ADM_RECORDS,USER_PROVIDED,Contrastive,Rút hồ sơ SV
